@@ -1,4 +1,4 @@
-# React Fetch CRUD Codealong
+# React Fetch CRUD Codealong (Create and Read)
 
 ## Learning Goals
 
